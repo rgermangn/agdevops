@@ -1,6 +1,6 @@
 # Imersão DevOps - Alura Google Cloud
 
-chaves: MARVEL, ELLIS,
+chaves: MARVEL, ELLIS, YAML
 Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e matrículas em uma instituição de ensino.
 
 ## Pré-requisitos
